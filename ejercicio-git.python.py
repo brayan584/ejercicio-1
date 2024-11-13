@@ -10,3 +10,6 @@ while True:
     print(f'estoy cambiando la cantidad a: {cantidad}')
     if cantidad == 10:
         break
+    
+for i  in [1,2,3,4,5,6,7]:
+    print(i)    
